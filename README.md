@@ -32,3 +32,22 @@ Applied Accessibility Lesson Notes of OJKT
       <li>) Use tabindex to Specify the Order of Keyboard Focus for Several Elements.</li>
    </ol>
   </div>
+<hr>
+	<div>
+  <h1><u>Show heirachial relationships of content:</u></h1>
+  <hr>
+  <main>
+		<br>
+    <h2><u>Semantic Meaning:</u></h2>
+    <h3>what tag your using.</h3>
+    <h3>and what is in that tag.</h3>
+  <br>
+    <h2><u>Main Subjects:</u></h2>
+    <h3>Should only be 1 h1 elelement per page.</h3>
+    <h3>headings are used by search engines to understand the topics of the page.</h3>
+  <br>
+    <h2><u>Parent-Child Relationship:</u></h2>
+    <h3>h1 to h2 to h3 <strong>like this</strong> is correct</h3>
+    <h5>h1 to h2 to h5 <strong>like this</strong> is incorrect.</h5>
+  </main>
+  <hr>
